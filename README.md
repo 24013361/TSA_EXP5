@@ -90,21 +90,21 @@ FIRST FIVE ROWS:
 
 
 PLOTTING THE DATA:
-<img width="1189" height="989" alt="image" src="https://github.com/user-attachments/assets/10f0791d-6f32-410e-9afb-f2fcd05fa27d" />
+<img width="949" height="196" alt="image" src="https://github.com/user-attachments/assets/bc5bcc31-6ccf-4626-8be9-1754f61d0216" />
 
 
 SEASONAL PLOT REPRESENTATION :
+<img width="949" height="195" alt="image" src="https://github.com/user-attachments/assets/61a839e9-8b50-4117-aa21-30df28482a97" />
 
-<img width="1189" height="989" alt="image" src="https://github.com/user-attachments/assets/c5c4d1ce-439c-4937-9bc0-d92376d8734d" />
 
 
 TREND PLOT REPRESENTATION :
-<img width="1189" height="989" alt="image" src="https://github.com/user-attachments/assets/be559a7d-5d8f-4c8d-889f-65a5dc3b2190" />
+<img width="948" height="201" alt="image" src="https://github.com/user-attachments/assets/e73ce555-7f4d-4ea5-bccc-bfa0292270f3" />
 
 
 OVERAL REPRESENTATION:
 
-<img width="1189" height="989" alt="image" src="https://github.com/user-attachments/assets/07636892-4357-40f0-a4c6-fd02011bd383" />
+<img width="949" height="197" alt="image" src="https://github.com/user-attachments/assets/e76f0174-52c2-434b-b097-840c03a5afaf" />
 
 
 ### RESULT:
